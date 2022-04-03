@@ -1,21 +1,22 @@
 # CSCI-466-Group-Project
 A group project for CSCI-466 Database in Northern Illinois University, Spring 2022.
 
-**Group Members:** 
-Angel Beltran
-Cleolyn Letona
-Tony Saenz
-Jenny Hernandez-Nava
-Brandon Phipps
+**Group Members:** </br>
+Angel Beltran </br>
+Cleolyn Letona </br>
+Tony Saenz </br>
+Jenny Hernandez-Nava </br>
+Brandon Phipps</br>
 
-**Goal:** Build a web-based store selling *coffee products*
+**Goal:** </br>
+Build a web-based store selling *coffee products*
 
-**Current Task(s):** 
-1: Create ER Diagram
-2: Normalize ER Diagram
-3: Build database by creating tables.
+**Current Task(s):** </br>
+1: Create ER Diagram </br>
+2: Normalize ER Diagram </br>
+3: Build database by creating tables </br>
 
-**Reminder:** 
+**Reminder:** </br>
 
 _// I created this repository for the group project #CL#_
 Let's try to document our work properly. I suggest including your **initials** in the comment block
