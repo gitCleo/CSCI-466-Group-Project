@@ -20,5 +20,6 @@ Build a web-based store selling *coffee products*
 
 _// I created this repository for the group project #CL#_ </br>
 Let's try to document our work properly. I suggest including your **initials** in the comment block
-of whatever code you're working on. This way, we know who to address when something is not working. </br>
+of whatever code you're working on. </br
+This way, we know who to address when something is not working. </br>
 _Example included above._
