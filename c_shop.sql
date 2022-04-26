@@ -41,7 +41,7 @@ c_user int(10) not null,
 trackingNum int(50) not null,
 total int(100) not null
 PRIMARY KEY(b_ID),
-FOREIGN KEY(c_ID) REFERENCES coff_customer(c_ID) 
+FOREIGN KEY(c_user) REFERENCES coff_customer(c_user) 
 );
 
 CREATE TABLE SCHED_ORDER(
