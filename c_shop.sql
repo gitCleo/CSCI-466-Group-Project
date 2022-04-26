@@ -4,7 +4,7 @@ password char(10) not NULL
 );
 
 CREATE TABLE coff_customer(
-c_ID int(10) PRIMARY KEY not null,
+c_user int(10) PRIMARY KEY not null, 
 c_name char(20) not null,
 c_phone int(11) not null,
 c_address varchar(20) not null,
@@ -37,7 +37,7 @@ payRate int(20) not null
 
 CREATE TABLE Check_Out(
 b_ID int(10) not null,
-c_ID int(10) not null,
+c_user int(10) not null,
 trackingNum int(50) not null,
 total int(100) not null
 PRIMARY KEY(b_ID),
